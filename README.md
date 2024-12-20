@@ -1,4 +1,4 @@
-# MACHINE LEARINING PREDICTIVE MODELS
+# MACHINE LEARNING PREDICTIVE MODELS
 
 This repository contains a Jupyter Notebook designed for a lab evaluation focused on Machine Learning concepts, particularly regression models. The notebook demonstrates data analysis, model training, and evaluation techniques using popular Python libraries conducted on "Fuel cell performance" dataset
 
