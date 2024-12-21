@@ -1,0 +1,2 @@
+Model with the least RMSE: ridge
+R2: 0.2541
